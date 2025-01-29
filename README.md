@@ -1,4 +1,4 @@
-# Template for startup app
+ # Template for startup app
 
 * [remix](https://github.com/remix-run/remix)
 * [prisma](https://github.com/prisma/prisma)
